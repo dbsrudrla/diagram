@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T01:56:21.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XN2UqTFIsFqxlfXZIgk8" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T02:01:46.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jx8g1Dtj9MYr6m3_it01" version="21.3.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1000" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -15,11 +15,17 @@
         <mxCell id="60571a20871a0731-4" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="110" y="50" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="8o3zZHHybqG7-ytFYF03-1" value="purchase request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="65" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="1c1d494c118603dd-3" value="The Purchasing Department" style="swimlane;html=1;startSize=30;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="250" width="250" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="60571a20871a0731-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="120" y="930" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8o3zZHHybqG7-ytFYF03-2" value="receive and monitor&lt;br&gt;the requests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="65" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="Vendor" style="swimlane;html=1;startSize=30;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="500" width="250" height="1010" as="geometry" />
