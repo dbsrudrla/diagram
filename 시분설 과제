@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T05:05:49.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QVjm_8SQbh-p6QpEx0yt" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T05:11:02.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="b45mvPWS9P5rzdQzFPE5" version="21.3.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1235" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,6 +62,12 @@
         </mxCell>
         <mxCell id="8o3zZHHybqG7-ytFYF03-20" value="send to the &lt;br&gt;approved vendor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-3">
           <mxGeometry x="115" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8o3zZHHybqG7-ytFYF03-23" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="90" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8o3zZHHybqG7-ytFYF03-24" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="235" y="230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="Vendor" style="swimlane;html=1;startSize=30;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="560" width="220" height="1010" as="geometry" />
