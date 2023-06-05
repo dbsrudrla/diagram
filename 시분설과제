@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T12:35:28.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hvV1SnvxcL-zQirZpyeM" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T12:40:49.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DnrOpu86-fU7xDAHi1DI" version="21.3.7" type="github">
   <diagram name="페이지-1" id="KU0kRXXPV6rRwzy48VSE">
     <mxGraphModel dx="1110" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
         <mxCell id="p3rwmyyhlEN9BZxT20g2-1" value="" style="ellipse;fillColor=strokeColor;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="99" y="25" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p3rwmyyhlEN9BZxT20g2-2" value="화물 수령" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="63" width="90" height="30" as="geometry" />
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-2" value="화물 수령" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="79" y="52.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="209" width="5" height="80" as="geometry" />
@@ -57,11 +57,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3rwmyyhlEN9BZxT20g2-19" value="스캔(시간, 장소)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="265.12" width="130" height="30" as="geometry" />
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-19" value="스캔&lt;br style=&quot;font-size: 10px;&quot;&gt;(날짜, 시간, 장소)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p3rwmyyhlEN9BZxT20g2-20" value="분실" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-130" width="60" height="30" as="geometry" />
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-20" value="분실" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-130" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="-157.5" width="5" height="80" as="geometry" />
@@ -96,20 +96,20 @@
             <mxPoint x="260" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3rwmyyhlEN9BZxT20g2-29" value="2주" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="525" y="-222" width="50" height="30" as="geometry" />
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-29" value="2주" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-214" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-30" value="배달 위탁 중" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="575" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3rwmyyhlEN9BZxT20g2-31" value="2주 간 분실 상태" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-130" width="140" height="30" as="geometry" />
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-31" value="2주 간 분실 상태" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-123" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-36" value="인수" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="575" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1.035;exitY=0.206;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3rwmyyhlEN9BZxT20g2-33" target="p3rwmyyhlEN9BZxT20g2-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -161,6 +161,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="47.5" as="sourcePoint" />
             <mxPoint x="910" y="-2.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-45" value="트럭 이동 &lt;br style=&quot;font-size: 10px;&quot;&gt;(날짜, 시간)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-46" value="택배 기사 인수&lt;br style=&quot;font-size: 10px;&quot;&gt;(날짜, 시간, 장소)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="273" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-49" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3rwmyyhlEN9BZxT20g2-27" target="p3rwmyyhlEN9BZxT20g2-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="-107.5" as="sourcePoint" />
+            <mxPoint x="1060" y="-157.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3rwmyyhlEN9BZxT20g2-43" target="p3rwmyyhlEN9BZxT20g2-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="38" as="sourcePoint" />
+            <mxPoint x="1120" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
