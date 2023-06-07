@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T16:47:29.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sPP-xko7sw5rebZCUL7V" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T16:49:09.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9dlDE5jv7lW2MzJdjKhy" version="21.3.7" type="github">
   <diagram name="페이지-1" id="KU0kRXXPV6rRwzy48VSE">
     <mxGraphModel dx="1290" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,8 +60,8 @@
         <mxCell id="p3rwmyyhlEN9BZxT20g2-19" value="스캔&lt;br style=&quot;font-size: 10px;&quot;&gt;(날짜, 시간, 장소)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="240" y="260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p3rwmyyhlEN9BZxT20g2-20" value="분실" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-130" width="40" height="30" as="geometry" />
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-20" value="화&lt;br&gt;물&lt;br&gt;분&lt;br&gt;실" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="335" y="-145" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="750" y="-157.5" width="5" height="80" as="geometry" />
@@ -96,8 +96,8 @@
             <mxPoint x="260" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3rwmyyhlEN9BZxT20g2-29" value="2주" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-214" width="40" height="30" as="geometry" />
+        <mxCell id="p3rwmyyhlEN9BZxT20g2-29" value="2주 후에도 발견 못 함" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="506" y="-214" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3rwmyyhlEN9BZxT20g2-30" value="배달 위탁 중" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
