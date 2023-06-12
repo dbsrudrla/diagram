@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T12:14:36.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="grD5g1BD2_ux8KaiIleP" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T12:16:21.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="npNDzZhIl9cz6htIYbZl" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2140" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,8 +24,8 @@
         <mxCell id="fCyhSz04hfvH7WSyZomO-23" value="제품 검색" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fCyhSz04hfvH7WSyZomO-0" value="&lt;b&gt;상태&lt;/b&gt;&amp;nbsp;&lt;br&gt;: picker의 상태를 나타냄&lt;br&gt;Available, Busy, Offline 등" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-230" y="472.5" width="140" height="50" as="geometry" />
+        <mxCell id="fCyhSz04hfvH7WSyZomO-0" value="&lt;b&gt;상태&lt;/b&gt;&amp;nbsp;&lt;br&gt;: picker의 상태를 나타냄&lt;br&gt;(Available, Busy, Offline 등)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-270" y="472.5" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9sA1f5Ovw9tdq7YG9Ci8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fCyhSz04hfvH7WSyZomO-3" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,16 +54,16 @@
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fCyhSz04hfvH7WSyZomO-8" value="&lt;b&gt;picker 정보&lt;/b&gt;&amp;nbsp;&lt;br&gt;: 작업을 하는 모든 picker들의 정보" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="53" width="190" height="50" as="geometry" />
+          <mxGeometry x="-269" y="53" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fCyhSz04hfvH7WSyZomO-9" value="&lt;b&gt;위치&lt;/b&gt;&amp;nbsp;&lt;br&gt;: picker가 현재 어디있는지 나타냄" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-230" y="532.5" width="150" height="50" as="geometry" />
+          <mxGeometry x="-270" y="532.5" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fCyhSz04hfvH7WSyZomO-10" value="&lt;b&gt;제품 확인&lt;/b&gt;&amp;nbsp;&lt;br&gt;: 제품의 정보, 품질 등 확인" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="103" width="190" height="50" as="geometry" />
+          <mxGeometry x="-269" y="103" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fCyhSz04hfvH7WSyZomO-11" value="&lt;b&gt;picking 가이드&lt;/b&gt;&amp;nbsp;&lt;br&gt;: picker에게 포장 안내를 해줌" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="153" width="190" height="50" as="geometry" />
+          <mxGeometry x="-269" y="153" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fCyhSz04hfvH7WSyZomO-14" value="주문 목록" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="437.5" width="160" height="135" as="geometry">
@@ -115,7 +115,7 @@
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9sA1f5Ovw9tdq7YG9Ci8-13" value="&lt;b&gt;상태 업데이트&lt;/b&gt;&lt;br&gt;: 상태를 업데이트함 &lt;br&gt;(피킹 완료, 이월 상품 등)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="203" width="190" height="50" as="geometry" />
+          <mxGeometry x="-269" y="203" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9sA1f5Ovw9tdq7YG9Ci8-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fCyhSz04hfvH7WSyZomO-14" target="9sA1f5Ovw9tdq7YG9Ci8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -169,8 +169,8 @@
         <mxCell id="9sA1f5Ovw9tdq7YG9Ci8-39" value="1 .. 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="15" y="409" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rKsJdZAuxExDrPlqNUIQ-3" value="&lt;b&gt;경로 탐색&lt;/b&gt;&lt;br&gt;: 제품을 찾는 최적의 경로 탐색" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-260" y="253" width="190" height="50" as="geometry" />
+        <mxCell id="rKsJdZAuxExDrPlqNUIQ-3" value="&lt;b&gt;제품 경로 탐색&lt;/b&gt;&lt;br&gt;: 제품을 찾는 최적의 경로 탐색" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-269" y="253" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
