@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T07:39:05.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YHrnX4FCWPWWXP8GC4JN" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T07:40:05.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aTFHaM7VBwiQFoHyFxAX" version="21.3.7" type="github">
   <diagram name="페이지-1" id="7LMa-8mt7YuL5PYQWv_Q">
-    <mxGraphModel dx="1740" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +127,12 @@
         <mxCell id="GiS1rpF_7Fi3IoBUG1XP-30" value="정렬 기준" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="204" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GiS1rpF_7Fi3IoBUG1XP-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GiS1rpF_7Fi3IoBUG1XP-31" target="GiS1rpF_7Fi3IoBUG1XP-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GiS1rpF_7Fi3IoBUG1XP-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GiS1rpF_7Fi3IoBUG1XP-31" target="GiS1rpF_7Fi3IoBUG1XP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GiS1rpF_7Fi3IoBUG1XP-31" value="재고 할당" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="304" width="90" height="50" as="geometry" />
         </mxCell>
@@ -151,11 +157,23 @@
         <mxCell id="GiS1rpF_7Fi3IoBUG1XP-46" value="카탈로그 보기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="755" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GiS1rpF_7Fi3IoBUG1XP-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GiS1rpF_7Fi3IoBUG1XP-47" target="GiS1rpF_7Fi3IoBUG1XP-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GiS1rpF_7Fi3IoBUG1XP-47" value="피드백 제공" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GiS1rpF_7Fi3IoBUG1XP-48" value="지불하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="866" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GiS1rpF_7Fi3IoBUG1XP-55" value="재고 제품 추가" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="269" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GiS1rpF_7Fi3IoBUG1XP-57" value="재고 제품 제거" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="339" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GiS1rpF_7Fi3IoBUG1XP-60" value="제품 찾기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="810" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
