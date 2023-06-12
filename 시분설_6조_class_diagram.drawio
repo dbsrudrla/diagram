@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T14:39:54.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MD7iCevrZY-4-uujVpgs" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T14:57:39.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HI6dix9jEygCBwNuTgPx" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2577" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,7 +44,7 @@
         <mxCell id="fCyhSz04hfvH7WSyZomO-6" value="제품 확인" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="fCyhSz04hfvH7WSyZomO-3" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fCyhSz04hfvH7WSyZomO-7" value="picking 가이드" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="fCyhSz04hfvH7WSyZomO-3" vertex="1">
+        <mxCell id="fCyhSz04hfvH7WSyZomO-7" value="packing 가이드" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="fCyhSz04hfvH7WSyZomO-3" vertex="1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fCyhSz04hfvH7WSyZomO-20" value="상태 업데이트" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="fCyhSz04hfvH7WSyZomO-3" vertex="1">
@@ -62,10 +62,10 @@
         <mxCell id="fCyhSz04hfvH7WSyZomO-10" value="&lt;b&gt;제품 확인&lt;/b&gt;&amp;nbsp;&lt;br&gt;: 제품의 정보, 품질 등 확인" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-280" y="103" width="201" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fCyhSz04hfvH7WSyZomO-11" value="&lt;b&gt;picking 가이드&lt;/b&gt;&amp;nbsp;&lt;br&gt;: picker에게 포장 안내를 해줌" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="fCyhSz04hfvH7WSyZomO-11" value="&lt;b&gt;packing 가이드&lt;/b&gt;&amp;nbsp;&lt;br&gt;: picker에게 포장 안내를 해줌" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-280" y="153" width="201" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VGimHN-CMDqfOcxUXzm2-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VGimHN-CMDqfOcxUXzm2-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="520" as="sourcePoint" />
             <mxPoint x="170" y="659.5" as="targetPoint" />
@@ -87,7 +87,7 @@
             <mxPoint x="20" y="356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VGimHN-CMDqfOcxUXzm2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fCyhSz04hfvH7WSyZomO-24">
+        <mxCell id="VGimHN-CMDqfOcxUXzm2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fCyhSz04hfvH7WSyZomO-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="520" as="targetPoint" />
           </mxGeometry>
