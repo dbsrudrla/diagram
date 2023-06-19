@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T08:39:59.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Xtujm8YELS9YjsKCunVM" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T08:40:33.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LyvSS12oWeiKk6RfinB1" version="21.4.0" type="github">
   <diagram name="페이지-1" id="AiYfpeXdoTfthhrxr5vb">
     <mxGraphModel dx="724" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bKL9INv-JJ-471Qi59Xo-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="50" y="210" width="20" height="20" as="geometry" />
+          <mxGeometry x="50" y="208" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bKL9INv-JJ-471Qi59Xo-3" value="recieve order()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="188" width="100" height="30" as="geometry" />
+          <mxGeometry x="70" y="187" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKL9INv-JJ-471Qi59Xo-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="190" width="420" height="320" as="geometry" />
+          <mxGeometry x="180" y="190" width="420" height="300" as="geometry" />
         </mxCell>
         <mxCell id="bKL9INv-JJ-471Qi59Xo-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.994;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
