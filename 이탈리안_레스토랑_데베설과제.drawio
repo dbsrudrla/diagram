@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T09:27:39.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KxDzj0vCEspb54Eb1Ock" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T09:45:23.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5HyZhVYreh1n4bPcPl6N" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1915" dy="1833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -448,7 +448,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02oD9bQf8KBMeVXTc0gy-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;이벤트 예약ID&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=left;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="1584.25" width="120" height="140" as="geometry">
+          <mxGeometry x="187" y="1584.25" width="120" height="140" as="geometry">
             <mxRectangle x="422" y="-251" width="77" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -456,13 +456,13 @@
           <mxGeometry y="35" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="02oD9bQf8KBMeVXTc0gy-15" value="이벤트 예약" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="232" y="1550.25" width="94" height="30" as="geometry" />
+          <mxGeometry x="187" y="1550.25" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02oD9bQf8KBMeVXTc0gy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;endArrow=ERone;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-115" target="02oD9bQf8KBMeVXTc0gy-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02oD9bQf8KBMeVXTc0gy-18" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="1667" width="10" height="10" as="geometry" />
+          <mxGeometry x="170" y="1667" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
