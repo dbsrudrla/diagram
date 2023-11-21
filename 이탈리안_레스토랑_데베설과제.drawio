@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T02:42:58.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZuMPOd2wdhJfyHFXWJMU" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T03:48:47.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RZZQJxd8jHYag5vIr-vO" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="DVaIMUHScbvfM-ojIsnY-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-8" target="DVaIMUHScbvfM-ojIsnY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DVaIMUHScbvfM-ojIsnY-8" value="재료ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-8" value="&lt;u&gt;재료ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DVaIMUHScbvfM-ojIsnY-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-9" target="DVaIMUHScbvfM-ojIsnY-1">
@@ -70,7 +70,7 @@
         <mxCell id="DVaIMUHScbvfM-ojIsnY-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-13" target="DVaIMUHScbvfM-ojIsnY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DVaIMUHScbvfM-ojIsnY-13" value="항목ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-13" value="&lt;u&gt;항목ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DVaIMUHScbvfM-ojIsnY-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-19" target="DVaIMUHScbvfM-ojIsnY-2">
@@ -96,7 +96,7 @@
         <mxCell id="DVaIMUHScbvfM-ojIsnY-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-28" target="DVaIMUHScbvfM-ojIsnY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DVaIMUHScbvfM-ojIsnY-28" value="직원ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-28" value="직원ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DVaIMUHScbvfM-ojIsnY-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-29" target="DVaIMUHScbvfM-ojIsnY-4">
@@ -108,7 +108,7 @@
         <mxCell id="DVaIMUHScbvfM-ojIsnY-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-33" target="DVaIMUHScbvfM-ojIsnY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DVaIMUHScbvfM-ojIsnY-33" value="주문ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-33" value="&lt;u&gt;주문ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DVaIMUHScbvfM-ojIsnY-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-34" target="DVaIMUHScbvfM-ojIsnY-3">
@@ -138,7 +138,7 @@
         <mxCell id="DVaIMUHScbvfM-ojIsnY-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-44" target="DVaIMUHScbvfM-ojIsnY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DVaIMUHScbvfM-ojIsnY-44" value="예약ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-44" value="&lt;u&gt;예약ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="490" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DVaIMUHScbvfM-ojIsnY-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-45" target="DVaIMUHScbvfM-ojIsnY-5">
