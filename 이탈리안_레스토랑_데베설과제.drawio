@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T05:37:26.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="V8YAdQxw-1uAswUOLjot" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T05:38:54.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7ZPgN9cJp7zKnp6SWAbI" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1450" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="900" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,12 @@
         </mxCell>
         <mxCell id="DVaIMUHScbvfM-ojIsnY-92" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="230" y="416" as="geometry" />
+        </mxCell>
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-93" value="예약" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="397" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-94" value="예약 이력" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="388" width="100" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
