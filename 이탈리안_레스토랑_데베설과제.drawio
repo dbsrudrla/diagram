@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T06:33:20.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xrhDLP_LB7QDzA8sBE9o" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T06:41:10.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vkxnqzBleoGYNJ1Zjjy6" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1713" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1238" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,7 +365,7 @@
         <mxCell id="DVaIMUHScbvfM-ojIsnY-130" value="식이 옵션" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-319" y="403.5" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DVaIMUHScbvfM-ojIsnY-137" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-96" target="DVaIMUHScbvfM-ojIsnY-106">
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-137" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;startArrow=ERone;startFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-96" target="DVaIMUHScbvfM-ojIsnY-106">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-191" y="770" as="sourcePoint" />
             <mxPoint x="-91" y="670" as="targetPoint" />
@@ -374,11 +374,23 @@
         <mxCell id="DVaIMUHScbvfM-ojIsnY-138" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-176" y="744" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="DVaIMUHScbvfM-ojIsnY-140" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-270" y="754" as="sourcePoint" />
-            <mxPoint x="-270" y="744" as="targetPoint" />
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-141" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;startArrow=ERone;startFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-102" target="DVaIMUHScbvfM-ojIsnY-96">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-340" y="891" as="sourcePoint" />
+            <mxPoint x="-214" y="891" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-142" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-346" y="812" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-145" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;startArrow=ERoneToMany;startFill=0;endFill=0;" edge="1" parent="1" source="DVaIMUHScbvfM-ojIsnY-103" target="DVaIMUHScbvfM-ojIsnY-109">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-281" y="1015" as="sourcePoint" />
+            <mxPoint x="-155" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVaIMUHScbvfM-ojIsnY-146" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1013" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
